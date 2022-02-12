@@ -62,7 +62,7 @@ Code is divided into following Groups
 
 ### Unit Tests
 - Unit test are written and provide a code coverage of 81.0 percent. see the screenshot attached.
-<img src="ScreenShots/CodeCoverage.png" width="878" height="1690">
+<img src="ScreenShots/CodeCoverage.png" width="600" height="1200">
 
 Unit tests are arranged in two subgroups:
 - Search contains tests written on View, Presenter, Interactor, Worker, Coordinator, It also contains Mock sub group that contains mock-up classes for MovieList.
