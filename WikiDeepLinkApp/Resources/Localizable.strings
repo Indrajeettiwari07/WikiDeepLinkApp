@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  WikiDeepLinkApp
+
+  Created by Inder Tiwari on 10/02/2022.
+  
+*/
+
+"Search" = "Search";
+"SearchHistory" = "SearchHistory";
+"Error" = "Error";
+"Ok" = "Ok";
+"InvalidURL" = "Invalid URL";
+"invalidSearch" = "Please provide minimum 2 characters for search";
+"redirectFailure" = "Cannot open Wikipedia app. Please check if wikipdeia app is installed";
+"errorMsg" = "There seems to be some error, please try after some time.";
+"noInternet" = "You seem to be offline, please try after some time.";
+"noDataFound" = "There seems to be some error, please try after some time.";
